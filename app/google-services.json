@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "422397007080",
+    "project_id": "textphoneapp",
+    "storage_bucket": "textphoneapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422397007080:android:b67c0b1f7f292bfaa3255d",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422397007080-lkimlhvtl75eko1amqf61p5kkbg20k4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testapp",
+            "certificate_hash": "d5a01e9c5a35607a41cb1a92ca37e980401e1f52"
+          }
+        },
+        {
+          "client_id": "422397007080-01s09at73gigt34mf4pnpmo67t7nq0n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5d0WHP8uUn2ZP0ru4-AdTm4iQ9QQgOps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422397007080-01s09at73gigt34mf4pnpmo67t7nq0n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
